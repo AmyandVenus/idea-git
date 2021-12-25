@@ -9,6 +9,6 @@ public class GitClass {
     public static void main(String[] args) {
         System.out.println("git1");
         System.out.println("hot-fix1");
-        System.out.println("master主支冲突测试1");
+        System.out.println("手动处理后的结果");
     }
 }
