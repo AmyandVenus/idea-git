@@ -10,5 +10,7 @@ public class GitClass {
         System.out.println("git1");
         System.out.println("hot-fix1");
         System.out.println("手动处理后的结果");
+         System.out.println("github上的处理1");
+        
     }
 }
